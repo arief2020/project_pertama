@@ -1,1 +1,4 @@
 ini adalah file pertama.txt
+
+Nama : Muhammad Syaifullah Al Arief
+NIM  : E32202398
